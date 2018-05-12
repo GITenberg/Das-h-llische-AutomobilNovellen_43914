@@ -1,0 +1,30 @@
+_repo: Das-h-llische-AutomobilNovellen_43914
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43914-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bierbaum, Otto Julius
+    alias: Bierbaum, O. J.
+    birthdate: 1865
+    deathdate: 1910
+    gutenberg_agent_id: '42471'
+    url: http://www.gutenberg.org/2009/agents/42471
+description: ''
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43914'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcc 'PT'
+- !lcsh 'German fiction'
+tableOfContents: Das höllische Automobil -- Der mutige Revierförster -- Patsch und
+  Tirili -- Die Weihnachtsbowle -- Schwarz-Rot-Gold und Grün-Weiß-Rot.
+title: 'Das höllische Automobil: Novellen'
+url: http://www.gutenberg.org/ebooks/43914
